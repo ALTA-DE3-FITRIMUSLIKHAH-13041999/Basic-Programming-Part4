@@ -12,4 +12,4 @@ class TestDrawXYZ(unittest.TestCase):
         self.assertEqual(result, expected_output)
         
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(draw_xyz)
